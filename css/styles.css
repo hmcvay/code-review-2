@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(44, 42, 51);
+  color: white;
+}
+
+.header {
+  background-color: transparent;
+}
+
+.centerMed {
+  text-align: center;
+  font-size: 16pt;
+}
+
+.pushRight {
+  text-align: right;
+}
+
+.headImage {
+  width: 100%;
+  height: auto;
+}
+
+.medFont {
+  font-size: larger;
+}
