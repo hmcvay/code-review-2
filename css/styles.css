@@ -1,10 +1,19 @@
 body {
-  background-color: rgb(44, 42, 51);
+  background-color: rgb(142, 138, 153);
   color: white;
+}
+
+img {
+  opacity: 0.5;
 }
 
 .header {
   background-color: transparent;
+}
+
+.quiz {
+  margin-top: 500px;
+  color: white;
 }
 
 .centerMed {
@@ -26,16 +35,19 @@ body {
 }
 
 .card {
+  background-color: rgb(108, 119, 150);
+  border: solid white 1px;
   float: left;
-  color: black;
+  text-align: center;
+  color: white;
   margin-top: 100px;
   margin-bottom: 100px;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 25px;
+  margin-right: 25px;
   padding-top: 20px;
   padding-bottom: 20px;
   width: 28%;
-  height: auto;
+  height: 225px;
 }
 
 #firstQuestion {
