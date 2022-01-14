@@ -29,6 +29,14 @@ body {
   display: none;
 }
 
+#result2 {
+  display: none;
+}
+
+#result3 {
+  display: none;
+}
+
 #js {
   width: 300px;
   height: auto;
@@ -42,11 +50,4 @@ body {
 #python {
   width: 300px;
   height: auto;
-}
-
-#result2 {
-  display: none;
-}
-#result3 {
-  display: none;
 }
