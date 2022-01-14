@@ -43,10 +43,7 @@ body {
 
 #fifthQuestion {
   width: 75%;
-}
-
-.wordBreak {
-  word-wrap: normal;
+  height: 100%;
 }
 
 #result1 {
