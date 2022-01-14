@@ -25,6 +25,30 @@ body {
   font-size: larger;
 }
 
+#firstQuestion {
+  width: 75%;
+}
+
+#secondQuestion {
+  width: 75%;
+}
+
+#thirdQuestion {
+  width: 75%;
+}
+
+#fourthQuestion {
+  width: 75%;
+}
+
+#fifthQuestion {
+  width: 75%;
+}
+
+.wordBreak {
+  word-wrap: normal;
+}
+
 #result1 {
   display: none;
 }
