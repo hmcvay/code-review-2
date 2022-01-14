@@ -18,8 +18,13 @@ _This webpage contains a multiple choice quiz designed to help the user choose a
 
 ## Setup/Installation Requirements
 
-- _To contribute, clone the repo from:_
-- _<https://github.com/k9w/voting-information>_
+- _Connect to wifi (or hard-wire connection)_
+- _Install git via the computer terminal_
+- _Use the "cd desktop" command to navigate to the desktop_
+- _Go to [this](https://github.com/hmcvay) GitHub account, and select the "code-review-2" repository_
+- _Once you have selected the repository, copy the URL_
+- _Use the terminal to paste the URL by entering: "git clone 'PASTE URL HERE'" (do not include the " ")_
+- _You may now enter the file saved to your desktop, and open the index.html file_
 
 ***
 
