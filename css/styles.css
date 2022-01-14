@@ -28,6 +28,22 @@ body {
 #result1 {
   display: none;
 }
+
+#js {
+  width: 300px;
+  height: auto;
+}
+
+#c {
+  width: 300px;
+  height: auto;
+}
+
+#python {
+  width: 300px;
+  height: auto;
+}
+
 #result2 {
   display: none;
 }

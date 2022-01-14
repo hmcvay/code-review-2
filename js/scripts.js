@@ -8,16 +8,27 @@ $(document).ready(function() {
 
     const total = answer1 + answer2 + answer3 + answer4 + answer5;
 
-    if (total < 6) {
+    if (total <= 6) {
+      $("#result3").hide();
+      $("#result2").hide();
       $("#result1").show();
-    } else if (total > 6){
-      $("#result2").show();
-    }
-    if (total === 12) {
+      } else if (total === 12){
+        $("#result1").hide();
+        $("#result3").hide();
+        $("#result2").show();
+      }
+    else{
+      $("#result1").hide();
+      $("#result2").hide();
       $("#result3").show();
     }
-    
-
   }
 )})
 
+//else if (total === 12) {
+  //$("result3").hide();
+  //$("result1").hide();
+  //$("result2").show();
+//}
+// else {
+  //$("#result3").show(); 
