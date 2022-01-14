@@ -24,3 +24,13 @@ body {
 .medFont {
   font-size: larger;
 }
+
+#result1 {
+  display: none;
+}
+#result2 {
+  display: none;
+}
+#result3 {
+  display: none;
+}
