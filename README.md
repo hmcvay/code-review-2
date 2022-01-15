@@ -10,7 +10,7 @@
 
 ## Description
 
-_This webpage contains a multiple choice quiz designed to help the user choose a coding language to learn. There are_____ questions, with certain answers assinged certain point values. The user submits their response and the points are totaled up to reveal hidden div within their point category. The hidden div will describe the coding language, and reasons why the user might want to learn it, and provide links to more information.
+_This webpage contains a multiple choice quiz designed to help the user choose a coding language to learn. There are five questions, with certain answers assigned certain point values. The user submits their response and the points are totaled up to reveal hidden div within their point category. The hidden div will describe the coding language, and reasons why the user might want to learn it, and provide links to more information.
 
 - _Live site: <https://hmcvay.github.io/code-review-2>_
 

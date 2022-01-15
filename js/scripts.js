@@ -14,7 +14,7 @@ $(document).ready(function() {
       $("#result1").show();
       } else if (total === 12){
         $("#result1").hide();
-        $("#result3").hide();
+        $("result3").hide();
         $("#result2").show();
       }
     else{
@@ -25,10 +25,3 @@ $(document).ready(function() {
   }
 )})
 
-//else if (total === 12) {
-  //$("result3").hide();
-  //$("result1").hide();
-  //$("result2").show();
-//}
-// else {
-  //$("#result3").show(); 
