@@ -13,9 +13,9 @@ $(document).ready(function() {
       $("#result2").hide();
       $("#result1").show();
     } else if (total === 12) {
-        $("#result1").hide();
-        $("result3").hide();
-        $("#result2").show();
+      $("#result1").hide();
+      $("result3").hide();
+      $("#result2").show();
     } else {
       $("#result1").hide();
       $("#result2").hide();
